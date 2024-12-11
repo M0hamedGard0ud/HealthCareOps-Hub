@@ -1,0 +1,38 @@
+[
+  {
+    "_id": {
+      "$oid": "66feaa3981f5384918e2943e"
+    },
+    "status": "Pending",
+    "dateCreated": "2024-10-03T14:28:05.621Z",
+    "hospitalemail": "hospital@gmail.com",
+    "name": "Klinikum Berlin",
+    "doctor_name": "Dr. Hans Müller, MD",
+    "specialty": "Cardiologist",
+    "timing": "9:00 AM - 10:00 PM",
+    "phone": 491234567890,
+    "address": "111, Weststraße, Berlin",
+    "city": "Berlin",
+    "__v": 0,
+    "lat": 52.520008,
+    "long": 13.404954
+  },
+  {
+    "_id": {
+      "$oid": "6701254e3fa3cc3f240b662d"
+    },
+    "status": "Pending",
+    "dateCreated": "2024-10-05T11:32:55.442Z",
+    "hospitalemail": "hospital@gmail.com",
+    "name": "Charité Hospital",
+    "doctor_name": "Dr. Klaus Becker, MD",
+    "specialty": "General Practitioner",
+    "timing": "11:00 AM - 4:00 PM",
+    "phone": 491234567890,
+    "address": "112, Hauptstraße, Munich",
+    "city": "Munich",
+    "__v": 0,
+    "lat": 48.135125,
+    "long": 11.581981
+  }
+]

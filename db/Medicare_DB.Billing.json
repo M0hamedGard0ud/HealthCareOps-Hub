@@ -1,0 +1,34 @@
+[
+  {
+    "_id": {
+      "$oid": "66ffe03cb680ad1810d7844e"
+    },
+    "status": "Pending",
+    "patemail": "patient@gmail.com",
+    "hospitalemail": "hospital@gmail.com",
+    "patient_name": "Lukas",
+    "amount": "4500",
+    "amount_paid": "4200",
+    "balance": "300",
+    "dateCreated": {
+      "$date": "2024-10-04T12:31:56.830Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67012f49af22641b4cd572b0"
+    },
+    "status": "Pending",
+    "patemail": "patient1@gmail.com",
+    "hospitalemail": "hospital@gmail.com",
+    "patient_name": "Sophie Wagner",
+    "amount": "9000",
+    "amount_paid": "6500",
+    "balance": "2500",
+    "dateCreated": {
+      "$date": "2024-10-05T12:21:29.939Z"
+    },
+    "__v": 0
+  }
+]

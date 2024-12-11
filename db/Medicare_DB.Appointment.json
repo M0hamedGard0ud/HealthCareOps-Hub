@@ -1,0 +1,112 @@
+[
+  {
+    "_id": {
+      "$oid": "66fec3658806c22350c4fcf2"
+    },
+    "status": "Confirmed",
+    "patemail": "patient@gmail.com",
+    "hospitalemail": "hospital@gmail.com",
+    "patient_name": "Lukas",
+    "doctor_name": "Dr. Hans Müller, MD",
+    "reason": "General Checkup",
+    "appointment_date": {
+      "$date": "2024-10-04T00:00:00.000Z"
+    },
+    "timeslot": "9:00 AM",
+    "address": "121, Weststraße, Berlin",
+    "city": "Berlin",
+    "phone": 491234567890,
+    "dateCreated": {
+      "$date": "2024-10-03T16:16:37.969Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67012bf7af22641b4cd57250"
+    },
+    "status": "Pending",
+    "patemail": "patient1@gmail.com",
+    "hospitalemail": "hospital@gmail.com",
+    "patient_name": "Anna Schmidt",
+    "doctor_name": "Dr. Klaus Becker, MD",
+    "reason": "Acidity",
+    "appointment_date": {
+      "$date": "2024-10-09T00:00:00.000Z"
+    },
+    "timeslot": "11:30 AM",
+    "address": "112, Friedrichstraße, Munich",
+    "city": "Munich",
+    "phone": 491234567890,
+    "dateCreated": {
+      "$date": "2024-10-05T12:07:19.188Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67012c78af22641b4cd57263"
+    },
+    "status": "Confirmed",
+    "patemail": "patient1@gmail.com",
+    "hospitalemail": "hospital@gmail.com",
+    "patient_name": "Thomas Meier",
+    "doctor_name": "Dr. Klaus Becker, MD",
+    "reason": "Headache",
+    "appointment_date": {
+      "$date": "2024-10-09T00:00:00.000Z"
+    },
+    "timeslot": "12:30 PM",
+    "address": "112, Friedrichstraße, Munich",
+    "city": "Munich",
+    "phone": 491234567890,
+    "dateCreated": {
+      "$date": "2024-10-05T12:09:28.369Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "670143ceb464e124fcf5eb9f"
+    },
+    "status": "Confirmed",
+    "patemail": "patient@gmail.com",
+    "hospitalemail": "hospital@gmail.com",
+    "patient_name": "Sophie Wagner",
+    "doctor_name": "Dr. Klaus Becker, MD",
+    "reason": "Fever",
+    "appointment_date": {
+      "$date": "2024-10-10T00:00:00.000Z"
+    },
+    "timeslot": "11:00 AM",
+    "address": "112, Friedrichstraße, Munich",
+    "city": "Munich",
+    "phone": 491234567890,
+    "dateCreated": {
+      "$date": "2024-10-05T13:49:02.869Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "670168e47497e94b404bef4f"
+    },
+    "status": "Pending",
+    "patemail": "patient1@gmail.com",
+    "hospitalemail": "hospital@gmail.com",
+    "patient_name": "Julia Schneider",
+    "doctor_name": "Dr. Klaus Becker, MD",
+    "reason": "Sinus Headache",
+    "appointment_date": {
+      "$date": "2024-10-11T00:00:00.000Z"
+    },
+    "timeslot": "11:00 AM",
+    "address": "112, Friedrichstraße, Munich",
+    "city": "Munich",
+    "phone": 491234567890,
+    "dateCreated": {
+      "$date": "2024-10-05T16:27:16.170Z"
+    },
+    "__v": 0
+  }
+]

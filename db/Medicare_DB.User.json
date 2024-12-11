@@ -1,0 +1,69 @@
+[
+  {
+    "_id": {
+      "$oid": "66fbf9aba875600dc8e31f8c"
+    },
+    "city": "Berlin",
+    "status": "Approved",
+    "name": "klinikum",
+    "email": "hospital@gmail.com",
+    "passwordHash": "$2a$10$H4vsW0p/rEgyjcDFyBemb.fUJDR9KHvb.yjBzsjjlg.POowr7DF4m",
+    "phone": "491234567891",
+    "role": "Hospital",
+    "question1": "test",
+    "question2": "test",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66fc20f71184602f44b809ae"
+    },
+    "city": "Berlin",
+    "status": "Pending",
+    "name": "patient",
+    "email": "patient@gmail.com",
+    "passwordHash": "$2a$10$bffywv5POd65pywhZBAB/.VIpH38KVPBTFhdDCDLAxSGSgdzragzO",
+    "phone": "491234567892",
+    "role": "Patient",
+    "question1": "test",
+    "question2": "test",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66fff1be1606c23d08cecc8d"
+    },
+    "city": "Munich",
+    "status": "Pending",
+    "name": "labor",
+    "email": "lab@gmail.com",
+    "passwordHash": "$2a$10$wofuxHeaZZ9qcU.plJvnBugHxCO/duxrtMWKFgTyofRSBxR0XfZ32",
+    "phone": "491234567890",
+    "role": "Lab",
+    "hospitalemail": "hospital@gmail.com",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "657be8706428f22cc74c006b"
+    },
+    "email": "admin@gmail.com",
+    "passwordHash": "$2a$10$NBiWjm.8G7vinbuholM1SeBTig/j2sAYLZ.4R5JPW/W9o6278hU7W",
+    "phone": "491234567891"
+  },
+  {
+    "_id": {
+      "$oid": "67012bc9af22641b4cd57248"
+    },
+    "city": "Hamburg",
+    "status": "Pending",
+    "name": "patient1",
+    "email": "patient1@gmail.com",
+    "passwordHash": "$2a$10$qkrxsreE17SNGoxu8pElmO8Qy0VJ2WnBSQUP2NPj4jneKTugv0jW6",
+    "phone": "491234567890",
+    "role": "Patient",
+    "question1": "test",
+    "question2": "test",
+    "__v": 0
+  }
+]

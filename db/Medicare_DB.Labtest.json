@@ -1,0 +1,59 @@
+[
+  {
+    "_id": {
+      "$oid": "66ffce66c1cd9923a893971b"
+    },
+    "report": "http://localhost:4000/public/uploads/1728040550792-report.pdf",
+    "patemail": "patient@gmail.com",
+    "labemail": "lab@gmail.com",
+    "hospitalemail": "hospital@gmail.com",
+    "patient_name": "Lukas",
+    "test_name": "Hemoglobin",
+    "range": "15.0g/dL",
+    "actual_range": "13.00 - 17.00",
+    "level": "Normal",
+    "date": "2024-10-04",
+    "dateCreated": {
+      "$date": "2024-10-04T11:15:50.813Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66ffd37cc1cd9923a893972c"
+    },
+    "report": "http://localhost:4000/public/uploads/1728041852350-report.pdf",
+    "patemail": "patient@gmail.com",
+    "labemail": "lab@gmail.com",
+    "hospitalemail": "hospital@gmail.com",
+    "patient_name": "Lukas",
+    "test_name": "Hemoglobin",
+    "range": "12.0g/dL",
+    "actual_range": "13.00 - 17.00",
+    "level": "Moderate",
+    "date": "2024-10-02",
+    "dateCreated": {
+      "$date": "2024-10-04T11:37:32.362Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67012ec4af22641b4cd5729e"
+    },
+    "report": "http://localhost:4000/public/uploads/1728130756030-sterling-accuris-pathology-sample-report-unlocked.pdf",
+    "patemail": "patient1@gmail.com",
+    "labemail": "lab@gmail.com",
+    "hospitalemail": "hospital@gmail.com",
+    "patient_name": "Sophie Wagner",
+    "test_name": "CBC Test",
+    "range": "9.0g/dL",
+    "actual_range": "13.00 - 17.00",
+    "level": "Low",
+    "date": "2024-10-10",
+    "dateCreated": {
+      "$date": "2024-10-05T12:19:16.094Z"
+    },
+    "__v": 0
+  }
+]

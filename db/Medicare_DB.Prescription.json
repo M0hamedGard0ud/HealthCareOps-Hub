@@ -1,0 +1,40 @@
+[
+  {
+    "_id": {
+      "$oid": "6701609b7497e94b404beef4"
+    },
+    "status": "Pending",
+    "dateCreated": "2024-10-05T15:47:44.825Z",
+    "patemail": "patient@gmail.com",
+    "hospitalemail": "hospital@gmail.com",
+    "doctor_name": "Dr. Hans Müller, MD",
+    "patient_name": "Lukas",
+    "findings": "Stomach upset and vomiting",
+    "lab_test": "Haemogram, Blood Sugar, Pulmonary Function Test, Lipid Profile, Liver Profile",
+    "medicine_1": "Paracetamol 500mg",
+    "medicine_2": "Ibuprofen 200mg",
+    "medicine_3": "Sumatriptan 50mg",
+    "medicine_4": "",
+    "notes": "Take complete rest and drink plenty of water",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "670169fb7497e94b404bef64"
+    },
+    "status": "Pending",
+    "dateCreated": "2024-10-05T15:47:44.825Z",
+    "patemail": "patient1@gmail.com",
+    "hospitalemail": "hospital@gmail.com",
+    "doctor_name": "Dr. Klaus Becker, MD",
+    "patient_name": "Sophie Wagner",
+    "findings": "Sinus congestion, tenderness over the forehead and cheeks",
+    "lab_test": "Fiberoptic nasal endoscopy",
+    "medicine_1": "Pseudoephedrine 60mg",
+    "medicine_2": "Ibuprofen 400mg",
+    "medicine_3": "Loratadine 10mg",
+    "medicine_4": "",
+    "notes": "Use steam inhalation; avoid cold exposure. Antihistamines for allergies.",
+    "__v": 0
+  }
+]
